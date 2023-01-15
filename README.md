@@ -3,7 +3,7 @@ Star on GitHub — it helps!
 # Sections 📚
 
 ✔️ Summary and About me
-✔️ Skills /
+✔️ Skills \
 ✔️ Experience
 ✔️ Certifications
 ✔️ Education
