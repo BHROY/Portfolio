@@ -1,5 +1,7 @@
 Star on GitHub — it helps!
 
+Skills Used : React js
+
 # Sections 📚
 
 ✔️ Summary and About me \
