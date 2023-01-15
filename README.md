@@ -9,4 +9,4 @@ Star on GitHub — it helps!
 ✔️ Education\
 ✔️ Contact me\
 
-To view a live example, **[click here](https://Bharati1919.github.io/)**
+To view a live example, **[click here](https://bharatiportfolio.com/)**
